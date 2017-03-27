@@ -1,0 +1,25 @@
+import java.util.Arrays;
+
+
+public class TwoSum {
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		TwoSum sum = new TwoSum();
+		int[] arr = {1,2,3};
+		System.out.println(Arrays.toString(arr));
+		System.out.println(sum.twoSum(arr, 3).toString());
+		
+	}
+	public int[] twoSum(int[] nums, int target) {
+			
+		return nums;
+        
+    }
+	
+}
+
