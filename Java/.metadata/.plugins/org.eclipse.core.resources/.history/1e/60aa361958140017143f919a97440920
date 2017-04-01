@@ -1,0 +1,19 @@
+
+public class LongestSubstringWithoutRepeatingCharacters {
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		lengthOfLongestSubstring("1234567");
+
+	}
+	
+	public int lengthOfLongestSubstring(String s) {
+		System.out.println(s);
+		return 1;
+        
+    }
+
+}

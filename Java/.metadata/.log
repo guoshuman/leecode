@@ -68,3 +68,312 @@ java.lang.NullPointerException
 	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:620)
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1408)
+!SESSION 2017-03-29 16:11:42.437 -----------------------------------------------
+eclipse.buildId=M20110210-1200
+java.version=1.6.0_45
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=zh_CN
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.ui 4 4 2017-03-29 16:11:57.359
+!MESSAGE Could not create view: 'org.eclipse.ui.internal.introview'.
+
+!ENTRY org.eclipse.ui 4 0 2017-03-29 16:12:03.828
+!MESSAGE Problems occurred restoring workbench.
+!SUBENTRY 1 unknown 0 0 2017-03-29 16:12:03.828
+!MESSAGE OK
+!SUBENTRY 1 unknown 0 0 2017-03-29 16:12:03.828
+!MESSAGE OK
+!SUBENTRY 1 unknown 0 0 2017-03-29 16:12:03.828
+!MESSAGE OK
+!SUBENTRY 1 unknown 0 0 2017-03-29 16:12:03.828
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.ui 4 0 2017-03-29 16:12:03.828
+!MESSAGE Unable to restore perspective: Workspace - Java.
+!SUBENTRY 2 org.eclipse.ui 0 0 2017-03-29 16:12:03.828
+!MESSAGE Problems occurred restoring perspective.
+!SUBENTRY 3 org.eclipse.ui 0 0 2017-03-29 16:12:03.828
+!MESSAGE 
+!SUBENTRY 2 unknown 0 0 2017-03-29 16:12:03.828
+!MESSAGE OK
+!SUBENTRY 2 unknown 0 0 2017-03-29 16:12:03.828
+!MESSAGE OK
+!SUBENTRY 2 unknown 0 0 2017-03-29 16:12:03.828
+!MESSAGE OK
+!SUBENTRY 2 unknown 0 0 2017-03-29 16:12:03.828
+!MESSAGE OK
+!SUBENTRY 2 unknown 0 0 2017-03-29 16:12:03.828
+!MESSAGE OK
+!SUBENTRY 2 unknown 0 0 2017-03-29 16:12:03.828
+!MESSAGE OK
+!SUBENTRY 2 unknown 0 0 2017-03-29 16:12:03.828
+!MESSAGE OK
+!SUBENTRY 2 unknown 0 0 2017-03-29 16:12:03.828
+!MESSAGE OK
+!SUBENTRY 2 unknown 0 0 2017-03-29 16:12:03.828
+!MESSAGE OK
+!SUBENTRY 2 org.eclipse.ui 4 0 2017-03-29 16:12:03.828
+!MESSAGE Could not find view: org.eclipse.ui.internal.introview
+!SUBENTRY 1 unknown 0 0 2017-03-29 16:12:03.828
+!MESSAGE OK
+!SESSION 2017-03-30 11:09:12.421 -----------------------------------------------
+eclipse.buildId=M20110210-1200
+java.version=1.6.0_45
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=zh_CN
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.ui 4 4 2017-03-30 11:09:39.437
+!MESSAGE Could not create view: 'org.eclipse.ui.internal.introview'.
+
+!ENTRY org.eclipse.ui 4 0 2017-03-30 11:09:42.937
+!MESSAGE Problems occurred restoring workbench.
+!SUBENTRY 1 unknown 0 0 2017-03-30 11:09:42.937
+!MESSAGE OK
+!SUBENTRY 1 unknown 0 0 2017-03-30 11:09:42.937
+!MESSAGE OK
+!SUBENTRY 1 unknown 0 0 2017-03-30 11:09:42.937
+!MESSAGE OK
+!SUBENTRY 1 unknown 0 0 2017-03-30 11:09:42.937
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.ui 4 0 2017-03-30 11:09:42.937
+!MESSAGE Unable to restore perspective: Workspace - Java.
+!SUBENTRY 2 org.eclipse.ui 0 0 2017-03-30 11:09:42.937
+!MESSAGE Problems occurred restoring perspective.
+!SUBENTRY 3 org.eclipse.ui 0 0 2017-03-30 11:09:42.937
+!MESSAGE 
+!SUBENTRY 2 unknown 0 0 2017-03-30 11:09:42.937
+!MESSAGE OK
+!SUBENTRY 2 unknown 0 0 2017-03-30 11:09:42.937
+!MESSAGE OK
+!SUBENTRY 2 unknown 0 0 2017-03-30 11:09:42.937
+!MESSAGE OK
+!SUBENTRY 2 unknown 0 0 2017-03-30 11:09:42.937
+!MESSAGE OK
+!SUBENTRY 2 unknown 0 0 2017-03-30 11:09:42.937
+!MESSAGE OK
+!SUBENTRY 2 unknown 0 0 2017-03-30 11:09:42.937
+!MESSAGE OK
+!SUBENTRY 2 unknown 0 0 2017-03-30 11:09:42.937
+!MESSAGE OK
+!SUBENTRY 2 unknown 0 0 2017-03-30 11:09:42.937
+!MESSAGE OK
+!SUBENTRY 2 unknown 0 0 2017-03-30 11:09:42.937
+!MESSAGE OK
+!SUBENTRY 2 org.eclipse.ui 4 0 2017-03-30 11:09:42.937
+!MESSAGE Could not find view: org.eclipse.ui.internal.introview
+!SUBENTRY 1 unknown 0 0 2017-03-30 11:09:42.937
+!MESSAGE OK
+!SESSION 2017-03-30 13:20:08.515 -----------------------------------------------
+eclipse.buildId=M20110210-1200
+java.version=1.6.0_45
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=zh_CN
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.equinox.p2.core 4 0 2017-03-30 13:26:06.531
+!MESSAGE Provisioning exception
+!STACK 1
+org.eclipse.equinox.p2.core.ProvisionException: No repository found at http://download.eclipse.org/tools/mylyn/update/helios.
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.fail(AbstractRepositoryManager.java:391)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.loadRepository(AbstractRepositoryManager.java:675)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.loadRepository(MetadataRepositoryManager.java:96)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.loadRepository(MetadataRepositoryManager.java:92)
+	at org.eclipse.equinox.p2.ui.LoadMetadataRepositoryJob.doLoad(LoadMetadataRepositoryJob.java:115)
+	at org.eclipse.equinox.p2.ui.LoadMetadataRepositoryJob.runModal(LoadMetadataRepositoryJob.java:100)
+	at org.eclipse.equinox.internal.p2.ui.sdk.PreloadingRepositoryHandler$2.runModal(PreloadingRepositoryHandler.java:82)
+	at org.eclipse.equinox.p2.operations.ProvisioningJob.run(ProvisioningJob.java:177)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
+!SUBENTRY 1 org.eclipse.equinox.p2.metadata.repository 4 1000 2017-03-30 13:26:06.531
+!MESSAGE No repository found at http://download.eclipse.org/tools/mylyn/update/helios.
+
+!ENTRY org.eclipse.equinox.p2.operations 4 0 2017-03-30 13:27:27.375
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 1 2017-03-30 13:27:27.375
+!MESSAGE Cannot complete the install because one or more required items could not be found.
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2017-03-30 13:27:27.375
+!MESSAGE Software being installed: Scala IDE for Eclipse dev support 4.4.1.v-2_11-201605041057-92a3ed3 (org.scala-ide.sdt.dev.feature.feature.group 4.4.1.v-2_11-201605041057-92a3ed3)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2017-03-30 13:27:27.375
+!MESSAGE Missing requirement: Scala Refactoring 0.10.0.2_11-201605041255-9bee908 (org.scala-refactoring.library 0.10.0.2_11-201605041255-9bee908) requires 'bundle org.junit 4.11.0' but it could not be found
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2017-03-30 13:27:27.375
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2017-03-30 13:27:27.375
+!MESSAGE From: Scala Debug Plugin 4.4.1.v-2_11-201605041057-92a3ed3 (org.scala-ide.sdt.debug 4.4.1.v-2_11-201605041057-92a3ed3)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2017-03-30 13:27:27.375
+!MESSAGE To: bundle org.scala-refactoring.library 0.0.0
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2017-03-30 13:27:27.375
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2017-03-30 13:27:27.375
+!MESSAGE From: Scala Expression Evaluator Plugin (Test) 4.4.1.v-2_11-201605041057-92a3ed3 (org.scala-ide.sdt.debug.expression.tests 4.4.1.v-2_11-201605041057-92a3ed3)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2017-03-30 13:27:27.375
+!MESSAGE To: bundle org.scala-ide.sdt.debug 0.0.0
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2017-03-30 13:27:27.375
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2017-03-30 13:27:27.375
+!MESSAGE From: Scala IDE for Eclipse dev support 4.4.1.v-2_11-201605041057-92a3ed3 (org.scala-ide.sdt.dev.feature.feature.group 4.4.1.v-2_11-201605041057-92a3ed3)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2017-03-30 13:27:27.375
+!MESSAGE To: org.scala-ide.sdt.debug.expression.tests [4.4.1.v-2_11-201605041057-92a3ed3]
+
+!ENTRY org.eclipse.equinox.p2.operations 4 0 2017-03-30 13:27:27.390
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 1 2017-03-30 13:27:27.390
+!MESSAGE Cannot complete the install because one or more required items could not be found.
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2017-03-30 13:27:27.390
+!MESSAGE Software being installed: Scala IDE for Eclipse dev support 4.4.1.v-2_11-201605041057-92a3ed3 (org.scala-ide.sdt.dev.feature.feature.group 4.4.1.v-2_11-201605041057-92a3ed3)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2017-03-30 13:27:27.390
+!MESSAGE Missing requirement: Scala Refactoring 0.10.0.2_11-201605041255-9bee908 (org.scala-refactoring.library 0.10.0.2_11-201605041255-9bee908) requires 'bundle org.junit 4.11.0' but it could not be found
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2017-03-30 13:27:27.390
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2017-03-30 13:27:27.390
+!MESSAGE From: Scala Debug Plugin 4.4.1.v-2_11-201605041057-92a3ed3 (org.scala-ide.sdt.debug 4.4.1.v-2_11-201605041057-92a3ed3)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2017-03-30 13:27:27.390
+!MESSAGE To: bundle org.scala-refactoring.library 0.0.0
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2017-03-30 13:27:27.390
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2017-03-30 13:27:27.390
+!MESSAGE From: Scala Expression Evaluator Plugin (Test) 4.4.1.v-2_11-201605041057-92a3ed3 (org.scala-ide.sdt.debug.expression.tests 4.4.1.v-2_11-201605041057-92a3ed3)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2017-03-30 13:27:27.390
+!MESSAGE To: bundle org.scala-ide.sdt.debug 0.0.0
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2017-03-30 13:27:27.390
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2017-03-30 13:27:27.390
+!MESSAGE From: Scala IDE for Eclipse dev support 4.4.1.v-2_11-201605041057-92a3ed3 (org.scala-ide.sdt.dev.feature.feature.group 4.4.1.v-2_11-201605041057-92a3ed3)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2017-03-30 13:27:27.390
+!MESSAGE To: org.scala-ide.sdt.debug.expression.tests [4.4.1.v-2_11-201605041057-92a3ed3]
+
+!ENTRY org.eclipse.equinox.p2.operations 4 0 2017-03-30 13:30:10.281
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 1 2017-03-30 13:30:10.281
+!MESSAGE Cannot complete the install because one or more required items could not be found.
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2017-03-30 13:30:10.281
+!MESSAGE Software being installed: Scala IDE for Eclipse dev support 4.4.1.v-2_11-201605041057-92a3ed3 (org.scala-ide.sdt.dev.feature.feature.group 4.4.1.v-2_11-201605041057-92a3ed3)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2017-03-30 13:30:10.281
+!MESSAGE Missing requirement: Scala Refactoring 0.10.0.2_11-201605041255-9bee908 (org.scala-refactoring.library 0.10.0.2_11-201605041255-9bee908) requires 'bundle org.junit 4.11.0' but it could not be found
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2017-03-30 13:30:10.281
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2017-03-30 13:30:10.281
+!MESSAGE From: Scala Debug Plugin 4.4.1.v-2_11-201605041057-92a3ed3 (org.scala-ide.sdt.debug 4.4.1.v-2_11-201605041057-92a3ed3)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2017-03-30 13:30:10.281
+!MESSAGE To: bundle org.scala-refactoring.library 0.0.0
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2017-03-30 13:30:10.281
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2017-03-30 13:30:10.281
+!MESSAGE From: Scala Expression Evaluator Plugin (Test) 4.4.1.v-2_11-201605041057-92a3ed3 (org.scala-ide.sdt.debug.expression.tests 4.4.1.v-2_11-201605041057-92a3ed3)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2017-03-30 13:30:10.281
+!MESSAGE To: bundle org.scala-ide.sdt.debug 0.0.0
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2017-03-30 13:30:10.281
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2017-03-30 13:30:10.281
+!MESSAGE From: Scala IDE for Eclipse dev support 4.4.1.v-2_11-201605041057-92a3ed3 (org.scala-ide.sdt.dev.feature.feature.group 4.4.1.v-2_11-201605041057-92a3ed3)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2017-03-30 13:30:10.281
+!MESSAGE To: org.scala-ide.sdt.debug.expression.tests [4.4.1.v-2_11-201605041057-92a3ed3]
+
+!ENTRY org.eclipse.equinox.p2.operations 4 0 2017-03-30 13:30:10.281
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 1 2017-03-30 13:30:10.281
+!MESSAGE Cannot complete the install because one or more required items could not be found.
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2017-03-30 13:30:10.281
+!MESSAGE Software being installed: Scala IDE for Eclipse dev support 4.4.1.v-2_11-201605041057-92a3ed3 (org.scala-ide.sdt.dev.feature.feature.group 4.4.1.v-2_11-201605041057-92a3ed3)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2017-03-30 13:30:10.281
+!MESSAGE Missing requirement: Scala Refactoring 0.10.0.2_11-201605041255-9bee908 (org.scala-refactoring.library 0.10.0.2_11-201605041255-9bee908) requires 'bundle org.junit 4.11.0' but it could not be found
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2017-03-30 13:30:10.281
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2017-03-30 13:30:10.281
+!MESSAGE From: Scala Debug Plugin 4.4.1.v-2_11-201605041057-92a3ed3 (org.scala-ide.sdt.debug 4.4.1.v-2_11-201605041057-92a3ed3)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2017-03-30 13:30:10.281
+!MESSAGE To: bundle org.scala-refactoring.library 0.0.0
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2017-03-30 13:30:10.281
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2017-03-30 13:30:10.281
+!MESSAGE From: Scala Expression Evaluator Plugin (Test) 4.4.1.v-2_11-201605041057-92a3ed3 (org.scala-ide.sdt.debug.expression.tests 4.4.1.v-2_11-201605041057-92a3ed3)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2017-03-30 13:30:10.281
+!MESSAGE To: bundle org.scala-ide.sdt.debug 0.0.0
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2017-03-30 13:30:10.281
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2017-03-30 13:30:10.281
+!MESSAGE From: Scala IDE for Eclipse dev support 4.4.1.v-2_11-201605041057-92a3ed3 (org.scala-ide.sdt.dev.feature.feature.group 4.4.1.v-2_11-201605041057-92a3ed3)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2017-03-30 13:30:10.281
+!MESSAGE To: org.scala-ide.sdt.debug.expression.tests [4.4.1.v-2_11-201605041057-92a3ed3]
+
+!ENTRY org.eclipse.equinox.p2.operations 4 0 2017-03-30 13:33:50.468
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 1 2017-03-30 13:33:50.468
+!MESSAGE Cannot complete the install because one or more required items could not be found.
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2017-03-30 13:33:50.468
+!MESSAGE Software being installed: Play2 support in Scala IDE sources 0.9.0.v-2_11-201612131054-063b4e8 (org.scala-ide.play2.source.feature.feature.group 0.9.0.v-2_11-201612131054-063b4e8)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2017-03-30 13:33:50.468
+!MESSAGE Missing requirement: Scala Plugin 4.4.1.v-2_11-201605041057-92a3ed3 (org.scala-ide.sdt.core 4.4.1.v-2_11-201605041057-92a3ed3) requires 'bundle org.eclipse.e4.ui.workbench 0.0.0' but it could not be found
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2017-03-30 13:33:50.468
+!MESSAGE Missing requirement: Scala Plugin 4.5.0.v-2_11-201612131030-02830a6 (org.scala-ide.sdt.core 4.5.0.v-2_11-201612131030-02830a6) requires 'bundle org.eclipse.e4.ui.workbench 0.0.0' but it could not be found
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2017-03-30 13:33:50.468
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2017-03-30 13:33:50.468
+!MESSAGE From: Play 2 Support for Scala IDE 0.9.0.v-2_11-201612131054-063b4e8 (org.scala-ide.play2 0.9.0.v-2_11-201612131054-063b4e8)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2017-03-30 13:33:50.468
+!MESSAGE To: bundle org.scala-ide.sdt.core [4.0.0,5.0.0)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2017-03-30 13:33:50.468
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2017-03-30 13:33:50.468
+!MESSAGE From: Play2 support in Scala IDE sources 0.9.0.v-2_11-201612131054-063b4e8 (org.scala-ide.play2.source.feature.feature.group 0.9.0.v-2_11-201612131054-063b4e8)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2017-03-30 13:33:50.468
+!MESSAGE To: org.scala-ide.play2.templates24 [0.9.0.v-2_11-201612131054-063b4e8]
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2017-03-30 13:33:50.468
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2017-03-30 13:33:50.468
+!MESSAGE From: Twirl Templates for Play 2.4 0.9.0.v-2_11-201612131054-063b4e8 (org.scala-ide.play2.templates24 0.9.0.v-2_11-201612131054-063b4e8)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2017-03-30 13:33:50.468
+!MESSAGE To: bundle org.scala-ide.play2 0.8.0
+
+!ENTRY org.eclipse.equinox.p2.operations 4 0 2017-03-30 13:33:50.484
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 1 2017-03-30 13:33:50.484
+!MESSAGE Cannot complete the install because one or more required items could not be found.
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2017-03-30 13:33:50.484
+!MESSAGE Software being installed: Play2 support in Scala IDE sources 0.9.0.v-2_11-201612131054-063b4e8 (org.scala-ide.play2.source.feature.feature.group 0.9.0.v-2_11-201612131054-063b4e8)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2017-03-30 13:33:50.484
+!MESSAGE Missing requirement: Scala Plugin 4.4.1.v-2_11-201605041057-92a3ed3 (org.scala-ide.sdt.core 4.4.1.v-2_11-201605041057-92a3ed3) requires 'bundle org.eclipse.e4.ui.workbench 0.0.0' but it could not be found
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2017-03-30 13:33:50.484
+!MESSAGE Missing requirement: Scala Plugin 4.5.0.v-2_11-201612131030-02830a6 (org.scala-ide.sdt.core 4.5.0.v-2_11-201612131030-02830a6) requires 'bundle org.eclipse.e4.ui.workbench 0.0.0' but it could not be found
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2017-03-30 13:33:50.484
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2017-03-30 13:33:50.484
+!MESSAGE From: Play 2 Support for Scala IDE 0.9.0.v-2_11-201612131054-063b4e8 (org.scala-ide.play2 0.9.0.v-2_11-201612131054-063b4e8)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2017-03-30 13:33:50.484
+!MESSAGE To: bundle org.scala-ide.sdt.core [4.0.0,5.0.0)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2017-03-30 13:33:50.484
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2017-03-30 13:33:50.484
+!MESSAGE From: Play2 support in Scala IDE sources 0.9.0.v-2_11-201612131054-063b4e8 (org.scala-ide.play2.source.feature.feature.group 0.9.0.v-2_11-201612131054-063b4e8)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2017-03-30 13:33:50.484
+!MESSAGE To: org.scala-ide.play2.templates24 [0.9.0.v-2_11-201612131054-063b4e8]
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2017-03-30 13:33:50.484
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2017-03-30 13:33:50.484
+!MESSAGE From: Twirl Templates for Play 2.4 0.9.0.v-2_11-201612131054-063b4e8 (org.scala-ide.play2.templates24 0.9.0.v-2_11-201612131054-063b4e8)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2017-03-30 13:33:50.484
+!MESSAGE To: bundle org.scala-ide.play2 0.8.0
+!SESSION 2017-04-01 10:12:22.515 -----------------------------------------------
+eclipse.buildId=4.4.2.M20150204-1700
+java.version=1.6.0_45
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=zh_CN
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2017-04-01 10:13:06.890
+!MESSAGE Warning: EGit couldn't detect the installation path "gitPrefix" of native Git. Hence EGit can't respect system level
+Git settings which might be configured in ${gitPrefix}/etc/gitconfig under the native Git installation directory.
+The most important of these settings is core.autocrlf. Git for Windows by default sets this parameter to true in
+this system level configuration. The Git installation location can be configured on the
+Team > Git > Configuration preference page's 'System Settings' tab.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.egit.ui 2 0 2017-04-01 10:13:06.906
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Documents and Settings\Administrator'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
