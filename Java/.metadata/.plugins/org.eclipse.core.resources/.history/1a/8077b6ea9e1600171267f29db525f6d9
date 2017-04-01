@@ -1,0 +1,16 @@
+/*
+ * Determine whether an integer is a palindrome. Do this without extra space.
+ */
+
+
+public class Solution {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+	}
+	public static boolean isPalindrome(int x){
+		
+		return true;
+	}
+}
