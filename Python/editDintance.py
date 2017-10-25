@@ -1,4 +1,4 @@
-# # -*- coding:utf-8 -*-
+# # -*- coding:utf-8 -*
 # import Levenshtein
 # texta = u'郭淑曼'
 # textb = u'杨梦'
